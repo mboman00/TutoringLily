@@ -6,7 +6,6 @@ channels:
 dependencies:
 - python=3.11
 - cuda
-- open-mmlab
 - cython
 - numpy
 - pandas
