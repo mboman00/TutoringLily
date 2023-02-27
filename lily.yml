@@ -4,9 +4,11 @@ channels:
 - nvidia
 - conda-forge
 dependencies:
-- python=3.9
+- python=3.11
 - cuda
 - open-mmlab
 - cython
 - numpy
 - pandas
+- nodejs
+- 
