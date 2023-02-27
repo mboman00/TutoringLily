@@ -1,0 +1,16 @@
+name: lily-cpu
+channels:
+- conda-forge
+- pytorch
+dependencies:
+- python=3.11
+- cython
+- numpy
+- pandas
+- nodejs
+- pytorch-cpu 
+- torchvision-cpu
+- ipykernel
+- ipywidgets
+- nb_conda_kernels
+- notebook_env
