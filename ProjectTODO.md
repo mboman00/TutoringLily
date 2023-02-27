@@ -10,6 +10,5 @@ Matt's TODO:
 
 - create a running environment for GPU training
  - Matt's home computer can do the training in seconds, this might be sufficient
- - Help create an AWS | cloud system with gpu available
-
+ - Determine how to create an AWS | cloud system with gpu available
 
