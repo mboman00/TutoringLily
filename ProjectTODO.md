@@ -9,6 +9,8 @@ Lily's TODO:
 Matt's TODO:
 
 - create a running environment for GPU training
- - Matt's home computer can do the training in seconds, this might be sufficient
- - Determine how to create an AWS | cloud system with gpu available
+- Use GPU on Matt's home computer for starters.
+- Create a new user on matt's computer for Lily.
+- Determine how to create an AWS | cloud system with gpu available.
+- Install MATLAB and try a simple wireframe example.
 
