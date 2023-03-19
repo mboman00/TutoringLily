@@ -3,10 +3,11 @@ channels:
 - intel
 - nvidia
 - conda-forge
+- pytorch
 dependencies:
-- python=3.11
-- cuda
+- python=3.9
 - cython
 - numpy
 - pandas
 - nodejs
+- jupyterlab
